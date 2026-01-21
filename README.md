@@ -1,1 +1,1 @@
-https://hellmax-pg.github.io/Meghan/dist/index.html
+https://Max-pgs.github.io/Meghan/dist/index.html
